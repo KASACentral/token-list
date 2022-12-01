@@ -88,10 +88,10 @@
     {
       "name": "Kasa Central Token",
       "symbol": "KASA",
-      "address": "0x7cfcE51E7e4a1862A94102499a708575B10b2dBC",
+      "address": "0x8106789b240E5e1b34643c052F1dc1B7a1A451A5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/kasacentral/token-list/master/src/tokens/images/0x7cfcE51E7e4a1862A94102499a708575B10b2dBC.png"
+      "logoURI": "https://raw.githubusercontent.com/kasacentral/token-list/master/src/tokens/images/0x8106789b240E5e1b34643c052F1dc1B7a1A451A5.png"
     },
     {
       "name": "Binance Pegged USD Coin",
